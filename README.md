@@ -1,2 +1,1 @@
-# julian-exemplo
-Repositório para explicar o funcionamento do Git
+Projeto de um blog de astronomia. 
